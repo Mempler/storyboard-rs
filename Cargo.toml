@@ -3,6 +3,8 @@ name = "storyboard"
 version = "0.1.0"
 authors = ["Robin A. P. <me@mempler.de>"]
 edition = "2018"
+license = "MIT"
+description = "Parse osu! storyboards .osb files using rust"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
